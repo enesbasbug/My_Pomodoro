@@ -62,7 +62,7 @@ def write_to_txt(session_time):
     # windows = name = os.path.join('C:\Users\YourUser\Desktop', name)
     # os      = os.chdir('C:\Users\YourUser\Desktop')
     
-    filename = '/Users/senesbasbug/Desktop/pomodoro.txt'
+    filename = '/Users/usernamexx/Desktop/pomodoro.txt'
 
     if not os.path.exists(os.path.dirname(filename)):
         try:
